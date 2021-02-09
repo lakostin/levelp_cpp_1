@@ -4,8 +4,4 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-        massiv.cpp
-
-HEADERS += \
-    massiv.h
+        main.cpp

@@ -5,7 +5,7 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-        massiv.cpp
+        matrix.cpp
 
 HEADERS += \
-    massiv.h
+    matrix.h
